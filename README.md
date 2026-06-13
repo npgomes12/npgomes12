@@ -27,8 +27,33 @@
 - <b>Uber Ride Data Analysis and Cleaning Project</b>
   - [Analyzing and Transforming Boston Uber Ride Data Using Python and Pandas](https://github.com/npgomes12/ubertransportation)
 
+## 🛠️ Technical Skills
 
+### Programming Languages
+- Python
+- JavaScript
+- SQL
+- HTML/CSS
 
+### Cybersecurity
+- Active Directory
+- Windows Server
+- Network Security
+- User & Group Management
+
+### Data Analytics
+- Pandas
+- MySQL
+- Data Cleaning
+- Data Visualization
+- Tableau
+
+### Tools & Technologies
+- Git/GitHub
+- VS Code
+- Windows Server
+- Tableau
+- Linux
 
 
 
