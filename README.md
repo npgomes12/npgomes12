@@ -31,7 +31,7 @@
 <h2>🤳 Connect With Me:</h2>
 
   - [Linkedln](https://www.linkedin.com/in/nathan-pgomes/)
-  - <b>Email: nathanpgomes2023@gmail.com</b>
+  - [Email](nathanpgomes2023@gmail.com)
 
 
 
