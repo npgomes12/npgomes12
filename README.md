@@ -27,6 +27,12 @@
 - <b>Uber Ride Data Analysis and Cleaning Project</b>
   - [Analyzing and Transforming Boston Uber Ride Data Using Python and Pandas](https://github.com/npgomes12/ubertransportation)
 
+
+<h2>Connect With Me:</h2>
+
+  - [Linkedln](https://www.linkedin.com/in/nathan-pgomes/)
+
+
 ## 🛠️ Technical Skills
 
 ### Programming Languages
