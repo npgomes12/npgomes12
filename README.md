@@ -28,9 +28,11 @@
   - [Analyzing and Transforming Boston Uber Ride Data Using Python and Pandas](https://github.com/npgomes12/ubertransportation)
 
 
-<h2>Connect With Me:</h2>
+<h2>🤳 Connect With Me:</h2>
 
   - [Linkedln](https://www.linkedin.com/in/nathan-pgomes/)
+  - <b>Email: nathanpgomes2023@gmail.com</b>
+
 
 
 ## 🛠️ Technical Skills
