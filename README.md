@@ -1,5 +1,28 @@
 <h1>Hi, I'm Nathan Gomes! <br/><a href="https://www.linkedin.com/in/nathan-pgomes/">Cybersecurity Professional</a></h1>
 
+
+<h2>🎓 Education</h2>
+
+<table>
+  <tr>
+    <td>📚</td>
+    <td>
+      <b>University of Maryland, College Park</b><br>
+      B.S. Information Science<br>
+      2023 – 2027 | GPA: 3.96
+    </td>
+  </tr>
+  <tr>
+    <td>🏫</td>
+    <td>
+      <b>Eleanor Roosevelt High School </b><br>
+      2019 – 2023  | GPA: 3.84
+    </td>
+  </tr>
+</table>
+
+
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Active Directory Home Lab</b>
