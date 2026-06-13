@@ -2,8 +2,11 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Active Directory Home Lab</b>
+  - [Building an Active Directory Domain Environment with Windows Server and Windows 10
+](https://github.com/npgomes12/ActiveDirectoryLab)
+
+
 
 <h2>👨‍💻 Web Development Projects:</h2>
 
