@@ -23,6 +23,9 @@
 
 - <b>Traffic Citation Management Database</b>
   - [Designing and Analyzing a Chicago Traffic Citations Database with SQL and MySQL](https://github.com/npgomes12/trafficcitation/tree/main)
+ 
+- <b>Uber Ride Data Analysis and Cleaning Project</b>
+  - [Analyzing and Transforming Boston Uber Ride Data Using Python and Pandas](https://github.com/npgomes12/trafficcitation/tree/main)
 
 
 
