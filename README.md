@@ -13,6 +13,12 @@
 - <b>Personal Portfolio & Interactive Website</b>
   - [Building a Multi-Page Website with HTML, CSS, and JavaScript](https://github.com/npgomes12/PersonalWebsite)
 
+- <b>Interactive Web Application with Stock Tracking, Dog Breed Explorer, and Voice Navigation</b>
+  - [Building a Multi-Page Web Application with APIs, Chart.js, and Speech Recognition](https://github.com/npgomes12/dogbreed/blob/main/README.md)
+
+
+
+
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
