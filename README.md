@@ -7,9 +7,8 @@
 
 <h2>👨‍💻 Web Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-
+- <b>Personal Portfolio & Interactive Website</b>
+  - [Building a Multi-Page Website with HTML, CSS, and JavaScript](https://github.com/npgomes12/PersonalWebsite)
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
