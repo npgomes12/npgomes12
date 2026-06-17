@@ -1,6 +1,37 @@
 <h1>Hi, I'm Nathan Gomes! <br/><a href="https://www.linkedin.com/in/nathan-pgomes/">Cybersecurity Professional</a></h1>
 
 
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>Active Directory Home Lab</b>
+  - [Building an Active Directory Domain Environment with Windows Server and Windows 10
+](https://github.com/npgomes12/ActiveDirectoryLab)
+
+
+
+<h2>👨‍💻 Web Development Projects:</h2>
+
+- <b>Personal Portfolio & Interactive Website</b>
+  - [Building a Multi-Page Website with HTML, CSS, and JavaScript](https://github.com/npgomes12/PersonalWebsite)
+
+- <b>Interactive Web Application with Stock Tracking, Dog Breed Explorer, and Voice Navigation</b>
+  - [Building a Multi-Page Web Application with APIs, Chart.js, and Speech Recognition](https://github.com/npgomes12/dogbreed)
+
+
+
+
+<h2>👨‍💻 Data Analysis Projects:</h2>
+
+- <b>Traffic Citation Management Database</b>
+  - [Designing and Analyzing a Chicago Traffic Citations Database with SQL and MySQL](https://github.com/npgomes12/trafficcitation/tree/main)
+ 
+- <b>Uber Ride Data Analysis and Cleaning Project</b>
+  - [Analyzing and Transforming Boston Uber Ride Data Using Python and Pandas](https://github.com/npgomes12/ubertransportation)
+
+
+
+
+
 <h2>🎓 Education</h2>
 
 <table>
@@ -34,32 +65,6 @@
 ](https://i.imgur.com/oxF24Jy.png)
 
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
-
-- <b>Active Directory Home Lab</b>
-  - [Building an Active Directory Domain Environment with Windows Server and Windows 10
-](https://github.com/npgomes12/ActiveDirectoryLab)
-
-
-
-<h2>👨‍💻 Web Development Projects:</h2>
-
-- <b>Personal Portfolio & Interactive Website</b>
-  - [Building a Multi-Page Website with HTML, CSS, and JavaScript](https://github.com/npgomes12/PersonalWebsite)
-
-- <b>Interactive Web Application with Stock Tracking, Dog Breed Explorer, and Voice Navigation</b>
-  - [Building a Multi-Page Web Application with APIs, Chart.js, and Speech Recognition](https://github.com/npgomes12/dogbreed)
-
-
-
-
-<h2>👨‍💻 Data Analysis Projects:</h2>
-
-- <b>Traffic Citation Management Database</b>
-  - [Designing and Analyzing a Chicago Traffic Citations Database with SQL and MySQL](https://github.com/npgomes12/trafficcitation/tree/main)
- 
-- <b>Uber Ride Data Analysis and Cleaning Project</b>
-  - [Analyzing and Transforming Boston Uber Ride Data Using Python and Pandas](https://github.com/npgomes12/ubertransportation)
 
 
 
