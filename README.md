@@ -23,6 +23,8 @@
 
 <h2> 🏅Academic Accomplishments:</h2>
 
+  - [Dean’s List 2025 Fall Semester 
+](https://i.imgur.com/cmkpUnO.png)
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
