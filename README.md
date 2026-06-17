@@ -76,7 +76,7 @@
 
 
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Skills:
 
 ### Programming Languages
 - Python
@@ -84,20 +84,20 @@
 - SQL
 - HTML/CSS
 
-### Cybersecurity
+### Cybersecurity:
 - Active Directory
 - Windows Server
 - Network Security
 - User & Group Management
 
-### Data Analytics
+### Data Analytics:
 - Pandas
 - MySQL
 - Data Cleaning
 - Data Visualization
 - Tableau
 
-### Tools & Technologies
+### Tools & Technologies:
 - Git/GitHub
 - VS Code
 - Windows Server
