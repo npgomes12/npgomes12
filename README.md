@@ -21,6 +21,8 @@
   </tr>
 </table>
 
+<h2> 🏅Academic Accomplishments:</h2>
+
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
@@ -51,7 +53,6 @@
   - [Analyzing and Transforming Boston Uber Ride Data Using Python and Pandas](https://github.com/npgomes12/ubertransportation)
 
 
-<h2> 🏅Academic Accomplishments:</h2>
 
 
 <h2>🤳 Connect With Me:</h2>
