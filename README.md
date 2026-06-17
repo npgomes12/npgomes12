@@ -26,7 +26,7 @@
   - Dean’s List 2023 Fall Semester
   - Dean’s List 2024 Spring Semester
   - Dean’s List 2024 Fall Semester
-  -[Dean’s List 2025 Spring Semester 
+  -  [Dean’s List 2025 Spring Semester 
 ](https://i.imgur.com/xJbxQw4.png)
   - [Dean’s List 2025 Fall Semester 
 ](https://i.imgur.com/cmkpUnO.png)
