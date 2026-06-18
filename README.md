@@ -1,9 +1,9 @@
 <h1>Hi, I'm Nathan Gomes! <br/><a href="https://www.linkedin.com/in/nathan-pgomes/">Information Science Student | AI, Cybersecurity & Data Analytics</a></h1>
 
-<h2>📄 Resume</h2>
+<h2>📄 MOST UPDATED Resume</h2>
 
 <p>
-  <a href="https://github.com/npgomes12/npgomes12/blob/main/Nathan_Gomes_Resume.pdf" target="_blank">
+  <a href="Nathan_Gomes__Resume.pdf" target="_blank">
     📥 Download Resume
   </a>
 </p>
