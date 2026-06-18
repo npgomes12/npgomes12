@@ -72,7 +72,7 @@
 <h2>🤳 Connect With Me:</h2>
 
   - [Linkedln](https://www.linkedin.com/in/nathan-pgomes/)
-  - [Email](nathanpgomes2023@gmail.com)
+- <a href="mailto:nathanpgomes2023@gmail.com">Email</a>
 
 
 
