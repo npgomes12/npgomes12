@@ -40,8 +40,8 @@
 <h2>Work Experience:</h2>
 
 - <b>Sport Honda Sales/Service Lot Attendant</b>
-  - [Building an Active Directory Domain Environment with Windows Server and Windows 10
-]()
+  - 
+()
 
 
 <h2>🎓 Education</h2>
