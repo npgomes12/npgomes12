@@ -39,9 +39,8 @@
 
 <h2>Work Experience:</h2>
 
-- <b>Sport Honda Sales/Service Lot Attendant</b>
-- [Supporting Dealership Operations, Vehicle Management, and Customer Service
-](https://github.com/npgomes12/ActiveDirectoryLab)
+- <b>port Honda Sales/Service Lot Attendant</b>
+  - [Supporting Dealership Operations, Vehicle Management, and Customer Service](https://github.com/npgomes12/ubertransportation)
 
 
 
