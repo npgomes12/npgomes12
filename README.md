@@ -3,7 +3,7 @@
 <h2>📄 MOST UPDATED Resume</h2>
 
 <p>
-  <a href="Official_Nathan_Gomes__Resume.pdf" target="_blank">
+  <a href="" target="_blank">
     📥 Download Resume
   </a>
 </p>
